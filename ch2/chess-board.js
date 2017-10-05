@@ -11,4 +11,4 @@ for (let i = 1; i <= size * size; i++) {
 	}
 }
 
-console.log(line);
+print(line);
